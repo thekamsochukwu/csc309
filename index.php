@@ -6,23 +6,20 @@
 <body>
     <h2>Registration Form</h2>
 
-    <form action="process.php" method="post">
-        <div>
-            <label for="firstname">Firstname:</label>
-            <input type="text" name="firstname">
-        </div>
+    <!-- Select all users and display in a Table -->
+    <table>
+        <thead>
+            <!-- Complete the table header row -->
+        </thead>
 
-        <div>
-            <label for="lastname">Lastname:</label>
-            <input type="text" name="lastname">
-        </div>
-
-        <div>
-            <label for="email">Email:</label>
-            <input type="email" name="email">
-        </div>
-
-        <button type="submit">Submit</button>
-    </form>
+        <tbody>
+            <?php
+                // Complete code to:
+                // Connect to the DB
+                // Select all records from users table
+                // Display all the selected records
+            ?>
+        </tbody>
+    </table>
 </body>
 </html>
