@@ -8,7 +8,7 @@
 
 ## Assignment Date: 13/07/2023
 
-## **Due Date: 18/07/2023**
+## **Due Date: 18/07/2023 23:59**
 
 1. Visit [GitHub](https://github.com) and create a personal account on the platform.
 
@@ -22,3 +22,12 @@
    |---|---|---|---|---|---|
    | 1 | Igwe | Chimdindu | F | 2000-06-15 | igwec@gmail.com |
 6. Submit a link to your updated CSC 309 GitHub Repo [here](https://bit.ly/csc-309-assignment).
+
+---
+
+**Note**
+
+-   To fork a repo you must be logged in, then access the repo at the top right section of the page you will the fork repository option
+-   You can implement numbers 3 - 5 online or on your local machine by setting git (at least) and WAMP/XAMP (for testing). I strongly advise you implement on your local machine if you have one.
+
+---
